@@ -1,6 +1,6 @@
 import java.util.Scanner; // Needed to read input from the console
 
-public class FactorialCalculator {
+ class FactorialCalculator {
 
     public static void main(String[] args) {
         
